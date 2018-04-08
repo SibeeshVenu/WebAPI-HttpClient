@@ -1,0 +1,8 @@
+E:\Visual Studio\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\bin\Debug\WebAPIWithHttpClientConsumer.exe.config
+E:\Visual Studio\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\bin\Debug\WebAPIWithHttpClientConsumer.exe
+E:\Visual Studio\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\bin\Debug\WebAPIWithHttpClientConsumer.pdb
+E:\Visual Studio\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\bin\Debug\System.Net.Http.Formatting.DLL
+E:\Visual Studio\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\obj\Debug\WebAPIWithHttpClientConsumer.csprojResolveAssemblyReference.cache
+E:\Visual Studio\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\obj\Debug\WebAPIWithHttpClientConsumer.exe
+E:\Visual Studio\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\obj\Debug\WebAPIWithHttpClientConsumer.pdb
+E:\Visual Studio\WebAPIWithHttpClientConsumer\WebAPIWithHttpClientConsumer\bin\Debug\Newtonsoft.Json.DLL
